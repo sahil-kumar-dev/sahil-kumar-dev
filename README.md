@@ -1,4 +1,4 @@
-<h1 align="center" color="white">Hi 👋, I'm Sahil Kumar</h1>
+<h1 align="center" color="red">Hi 👋, I'm Sahil Kumar</h1>
 <h3 align="center">A passionate fullstack web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-kumar-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-kumar-dev" /> </p>
