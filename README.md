@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [https://sahil-personal-portfolio.netlify.app](https://sahil-personal-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://developersahil.com](https://developersahil.com)
 
 - 💬 Ask me about **react,javascript,express,database**
 
